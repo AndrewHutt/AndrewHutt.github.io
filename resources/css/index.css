@@ -1,0 +1,12 @@
+.banner { 
+    background-color: firebrick;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px;
+}
+
+#nice-photo { 
+    height: 100px;
+    width: 200px;
+}   
